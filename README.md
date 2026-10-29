@@ -1,5 +1,7 @@
 # Ballgame
 
+> Public source preview: see [PUBLICATION.md](PUBLICATION.md) for actual checks, known failures and runtime limits.
+
 ## О проекте
 
 `Ballgame` — небольшая аркада на `pygame`, построенная вокруг запуска шаров из центральной зоны и защиты арены от врагов. Во время игры по внешнему кругу появляются враги и ворота, а игрок ограниченным числом запусков пытается удерживать контроль над полем и набирать очки.
@@ -29,3 +31,8 @@ python main.py
 ## Статус
 
 `WIP`. Проект выглядит как самостоятельный игровой прототип с уже собранным основным циклом и набором базовых механик.
+
+
+## Public source status — 2026-10-29
+
+See [PUBLICATION.md](PUBLICATION.md) for the current verification scope, prototype limitations and runtime boundaries. Earlier audit checklists describe historical work.
